@@ -1,0 +1,44 @@
+[
+  {
+    "id": "dest_001",
+    "name": "KLCC Park",
+    "category": "Nature",
+    "coordinates": { "lat": 3.1556, "lng": 101.7145 },
+    "description": "An urban park in the city center."
+  },
+  {
+    "id": "dest_002",
+    "name": "Petronas Twin Towers",
+    "category": "Landmark",
+    "coordinates": { "lat": 3.1579, "lng": 101.7116 },
+    "description": "Iconic twin skyscrapers and shopping mall."
+  },
+  {
+    "id": "dest_003",
+    "name": "Batu Caves",
+    "category": "Nature",
+    "coordinates": { "lat": 3.1390, "lng": 101.6839 },
+    "description": "Limestone hill with Hindu temples."
+  },
+  {
+    "id": "dest_004",
+    "name": "Merdeka Square",
+    "category": "Historical",
+    "coordinates": { "lat": 3.1487, "lng": 101.6956 },
+    "description": "Historic square and landmark of independence."
+  },
+  {
+    "id": "dest_005",
+    "name": "Bukit Bintang",
+    "category": "Shopping",
+    "coordinates": { "lat": 3.1489, "lng": 101.7067 },
+    "description": "Shopping and entertainment district."
+  },
+  {
+    "id": "dest_006",
+    "name": "KL Sentral",
+    "category": "Transport",
+    "coordinates": { "lat": 3.1343, "lng": 101.6869 },
+    "description": "Main railway hub and transit station."
+  }
+]
